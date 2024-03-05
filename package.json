@@ -11,8 +11,7 @@
     "url": "https://github.com/lutfanidev/paramt2.git"
   },
   "dependencies": {
-    "paramt1": "1.0.0",
-    "paramt2": "1.0.0",
+    "mypjtt2": "1.0.0",
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
